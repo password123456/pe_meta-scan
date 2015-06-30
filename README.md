@@ -5,7 +5,7 @@ Overview:
 
 Requirements:
  * YOUR VirusTotal API-KEY
- https://www.virustotal.com/ko/faq/#virustotal-api
+ - https://www.virustotal.com/ko/faq/#virustotal-api
 
 Expects:
  - Just for fun.
