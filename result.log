@@ -1,0 +1,39 @@
+# ./mt_scan.py -f pop.exe
+========================================
+===     PE META SCAN + Virustotal    ===
+========================================
+
+
+[+] File Info:
+============================================================
+- File  :  /home/script/malware_detect/virustotal/pop.exe
+- Size  : 150312 bytes
+- Type  :  MS-DOS executable
+- MD5   : 79a32a7b45840ae5c61bd43e9eda3727
+- SHA1  : a533a8339ef05eb5f82a6f969768057f98efb3a2
+- SHA256: 72389abd8ffeab5aefe08e349fb193b7f8760815e9f4864c9c596bdf816b6906
+- Packer:  ['UPX 2.90 [LZMA] -> Markus Oberhumer, Laszlo Molnar & John Reiser']
+- Date:  0x0        [Thu Jan  1 00:00:00 1970 UTC] [SUSPICIOUS]
+
+
+[+] Version Info:
+============================================================
+LegalCopyright: Copyright (C) 2013
+InternalName: SHPlayer
+FileVersion: 4, 1, 0, 0
+CompanyName: \x641c\x72d0\x516c\x53f8 SOHU .COM INC
+ProductName: \x641c\x72d0\x5f71\x97f3
+ProductVersion: 4, 1, 0, 0
+FileDescription: \x641c\x72d0\x5f71\x97f3
+OriginalFilename: SHPlayer.exe
+Translation: 0x0804 0x04b0
+
+
+[+] VirusTotal:
+============================================================
+- V3 Detect: Trojan/Win32.Banki
+- Symantec Detect: Trojan Horse
+- Kaspersky Detect: None
+- Detect Count:  39 / 56
+- VirusTotal Link:  https://www.virustotal.com/file/72389abd8ffeab5aefe08e349fb193b7f8760815e9f4864c9c596bdf816b6906/analysis/1435216242/
+- Scanned on: 2015-06-25 07:10:42
