@@ -3,8 +3,9 @@
 Overview:
 - PE Meta Information scanning && Search for Virustotal  
 
-Requirement:
- * VirusTotal API-KEY
+Requirements:
+ * YOUR VirusTotal API-KEY
+ https://www.virustotal.com/ko/faq/#virustotal-api
 
 Expects:
  - Just for fun.
