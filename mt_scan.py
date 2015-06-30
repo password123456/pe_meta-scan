@@ -36,7 +36,7 @@ class PESCAN():
          self.pesignature = os.path.abspath(SIGNATURE)
 
          # VIRUS TOTAL
-         self.vt_apikey = 'b549db5605436e507cca5b2a6afb1c5dfbe251505b6d1d5a336ddc8843771b94'
+         self.vt_apikey = '$YOUR-VIRUSTOTAL_APIKEY$'
          self.vt_baseurl = 'https://www.virustotal.com/vtapi/v2/'
 
     def vt_getReport(self, md5):
